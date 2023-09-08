@@ -1,3 +1,5 @@
+Check it out on [youtube](https://youtu.be/bjAsgl6c8Qk)
+
 **Project: AssistBot - Personalized Desk Assistant**
 *Description*: AssistBot is a Python-based project developed to provide a personalized and interactive desk assistant experience. Leveraging computer vision and natural language processing, it initiates conversations, offers assistance through voice interactions, and recognizes users by name.
 
